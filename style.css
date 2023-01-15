@@ -1,0 +1,660 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.main{
+    width: 10px;
+    height: 10px;
+    background-color:  rgb(247, 244, 244);
+}
+
+.afterone{
+    background-color: red;
+    width: 1349px;
+    height: 450px;
+    margin-top: 14px;
+
+}
+
+.republic{
+    display: flex;
+    margin-top: -294px;
+    margin-left: 350px;
+    flex-direction: column;
+    color: white;
+}
+.check{
+    width: 117px;
+    height: 40px;
+    margin-top: 23px;
+    border-radius: 10px;
+    border:none;
+}
+.check:hover{
+    background-color: cornsilk;
+}
+
+.updatedphoto{
+    width: 1349px;
+    height: 450px;
+    margin-top: -10px;
+    margin-left: -20px;
+}
+.one{
+    background-color: white;
+    width:  13494%;
+    height: 38px;
+    
+}
+
+.jj{
+    margin-top: -35px;
+    margin-left: 1150px;
+    width: 33px;
+    position: absolute;
+}
+.vv{
+    margin-top: -35px;
+        margin-left: 1201px;
+        width: 33px;
+        position: absolute;
+        top: 35px;
+    
+        height: 42px;
+        
+}
+
+.bb{
+    margin-top: -35px;
+        margin-left: 1250px;
+        width: 33px;
+        position: absolute;
+}
+.from{
+    
+    position: absolute;
+    margin-left: 296px;
+    margin-top: 45px;
+    color: white;
+}
+
+
+img{
+    width: 50px;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+.two{
+    margin-top: 13px;
+}
+.three{
+    margin-top: 40px;
+}
+.price{
+    margin-top: -25px;
+    margin-left: 48px;
+}
+
+.cuttedprice{
+    margin-top: -23px;
+    margin-left: 124px;
+    color: lightgray;
+}
+
+.buttonone{
+    
+    width: 39px;
+    height: 20px;
+    margin-left: 89px;
+    margin-top: -27px;
+    color: aqua;  
+}
+.store{
+    font-size: medium;
+    margin-top: -1px;
+    border: none;
+    background-color: transparent;
+    color:#191919;
+}
+
+.buttontwo{
+    width: 39px;
+    height: 20px;
+    margin-left: 160px;
+    margin-top: -20px;
+    color: aqua;
+}
+.phone{
+    font-size: medium;
+    margin-top: -1px;
+    border: none;
+    background-color: transparent;
+    color:#191919;
+}
+
+.buttonthree{
+    width: 39px;
+    height: 20px;
+    margin-left: 218px;
+    margin-top: -20px;
+    color: aqua;
+}
+.tv{
+    width: 182px;
+    font-size: medium;
+    margin-top: -1px;
+    border: none;
+    background-color: transparent;
+    color:#191919;
+}
+
+.buttonfour{
+    width: 39px;
+    height: 20px;
+    margin-left: 394px;
+    margin-top: -20px;
+    color: aqua;
+}
+
+.lap{
+    width: 148px;
+    font-size: medium;
+    margin-top: -1px;
+    border: none;
+    background-color: transparent;
+    color:#191919;
+}
+.buttonfive{
+    width: 39px;
+    height: 20px;
+    margin-left: 546px;
+    margin-top: -20px;
+    color: aqua;
+}
+.life{
+    font-size: medium;
+    margin-top: -1px;
+    border: none;
+    background-color: transparent;
+    color:#191919;
+}
+
+.buttonsix{
+    margin-left: 1009px;
+    margin-top: -17px;
+}
+.discover{
+    font-size: medium;
+    margin-top: -1px;
+    border: none;
+    background-color: transparent;
+    color:#191919;
+}
+
+.buttonseven{
+    margin-top: -17px;
+    margin-left: 1087px;
+}
+.support{
+    font-size: medium;
+    margin-top: -1px;
+    border: none;
+    background-color: transparent;
+    color:#191919;
+}
+
+.first{
+    width: 1349px;
+    height:450px;
+    margin-left: -20px;
+    
+}
+
+.charge{
+    padding-left: -390px;
+    width: 447px;
+    position: relative;
+    top: -392px;
+}
+.hyper{
+    padding-top: 100px;
+    margin-left: 295px;
+    color: white;
+    font-size: larger;
+}
+
+.sale{
+    width: 100px;
+    height: 10px;
+    margin-top: -377px;
+    margin-left:296px;
+}
+.live{
+    width: 105px;
+    height: 27px;
+    margin-top: 85px;
+    border-radius: 10px;
+    border: transparent;
+}
+
+.photo21{
+    margin-top: 227px;
+    
+}
+.photo2{
+    width: 650px;
+    height: 421px;
+}
+.aa{
+    margin-top: -380px;
+    margin-left: 198px;
+    position: absolute;
+}
+.engineered{
+    margin-left: 75px;
+}
+
+.ss{
+    margin-top: 17px;
+    margin-left: 115px;
+    background: transparent;
+    border: none;
+}
+.ss:hover{
+    text-decoration: underline;
+}
+.photo31{
+    margin-top: -435px;
+    margin-left:669px;
+}
+.photo3{
+    width: 651px;
+    height: 421px;
+}
+.dd{
+    position:absolute;
+    top: 1039px;
+    margin-left: 165px;
+    font-family: 'Xiaomi Brand', 'Camphor Pro VF', 'Camphor Pro', sans-serif;;
+}
+.ff{
+    position: absolute;
+    top: 1080px;
+    margin-left: 220px;
+}
+.gg{
+    position: absolute;
+    top: 1113px;
+    margin-left: 286px;
+    background: transparent;
+    border: none;
+}
+.gg:hover{
+    text-decoration: underline;
+}
+.photo4{
+    width: 650px;
+    height: 421px;
+}
+
+.ll{
+    position: absolute;
+    top: 1548px;
+    margin-left: 309px;
+    border: none;
+    background-color: transparent;
+    color: white;
+}
+.ll:hover{
+    text-decoration: underline;
+}
+.photo51{
+    margin-left: 669px;
+    margin-top: -435px;
+}
+.photo5{
+    width: 317px;
+    height: 421px;
+}
+.kk{
+    position: absolute;
+    top: 1573px;
+    margin-left: 145px;
+    border: none;
+    background: transparent;
+    color: white;
+}
+.kk:hover{
+    text-decoration: underline;
+}
+
+.blank{
+    background-color: rgb(247, 244, 244);
+    width: 309px;
+    height: 420px;
+    margin-left: 1031px;
+    margin-top: -524px;
+    
+}
+
+.photo61{
+    margin-top: 100px;
+    padding-top: 135px;
+    padding-left: 18px;
+}
+
+.photo6{
+    width: 242px;
+    height: 242;
+}
+.stay{
+    margin-top: -365px;
+    
+    text-align: center;
+}
+.power{
+    text-align: center;
+    margin-top: 10px;
+}
+.nn{
+  margin-left: 115px;
+  margin-top: 10px;
+  border: none;
+  background: transparent;
+  color: orange;
+}
+.nn:hover{
+    text-decoration: underline;
+}
+.five{
+    width: 1204px;
+    height: 424px;
+    background-color:   rgb(247, 244, 244);
+    margin-top: 43px;
+    margin-left: 76px;
+}
+
+.photo7{
+    width: 603px;
+    height: 393px;
+    margin-top: 10px;
+}
+.play{
+    margin-left: -353px;
+    position: relative;
+    top:-173px;
+}
+
+.tag{
+    margin-top: -321px;
+    margin-left: 914px;
+    color: orange;
+    font-weight: 700;
+}
+
+.redmi{
+    margin-left:819px;
+    color:black;
+    margin-top: 18px;
+    font-size: xx-large;
+}
+.get{
+    margin-left: 685px;
+    margin-top: 16px;
+    text-align: center;
+    
+}
+
+.learn{
+    margin-left: 908px;
+    margin-top: 35px;
+    
+}
+.more{
+    border: none;
+    background: none;
+}
+.left{
+    
+    margin-left: 858px;
+    margin-top: 20px;
+    
+}
+.leftarrow{
+    width: 40px;
+    height: 40px;
+}
+
+.rigth{
+    
+    
+    margin-top: -53px;
+    margin-left: 922px;
+    
+}
+
+.rightarrow{
+    width: 40px;
+    height: 40px;
+}
+
+.six1{
+    background-color:   rgb(247, 244, 244);
+    width: 618px;
+    height: 471px;
+   
+    margin-top: 18px;
+    margin-left: 76px;
+}
+
+.xiaomi{
+    margin-left: -65px;
+    margin-top: 10px;
+    text-align: center;
+    padding-top: 95px;
+}
+
+
+
+.links:hover{
+    cursor: pointer;
+    border-bottom: 1px solid black;
+}
+.six1a{
+    
+    display: flex;
+    gap: 50px;
+    margin-top: 58px;
+    margin-left: 53px;
+}
+
+.extended{
+    margin-left: -12px;
+}
+
+.six2{
+    background-color: rgb(247, 244, 244);
+    width: 569px;
+    height: 235px;
+    margin-top: -470px;
+    margin-left: 712px;
+}
+
+.service{
+    color:black;
+    text-align: center;
+    padding-top: 97px;
+}
+
+.we{
+    color:black;
+    text-align: center;
+}
+
+.six3{
+
+    background-color: rgb(247, 244, 244);
+    width: 569px;
+    height: 215px;
+    margin-left: 713px;
+    margin-top: 20px;
+}
+
+.exchange{
+    color: black;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.ren{
+    color:black;
+    text-align: center;
+    margin-left: 10px;
+}
+
+.seven{
+    background-color:black;
+    width: 1349px;
+    height:650px;
+    margin-top: 10px;
+}
+.follow{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    margin-left: 988px;
+    margin-top: -199px;
+}
+
+.seven1{
+    display:flex;
+    gap: 98px;
+    padding-top: 88px;
+    padding-left: 31px;
+    color: white;
+    
+}
+.followmi{
+    
+    width: 300px;
+    height: 73px;
+    margin-top: -452px;
+    margin-left: 1009px;
+}
+
+.facebook{
+    width:27px;
+    
+    margin-top: 7px;
+    margin-left: -19px;
+}
+
+.twitter{
+    width:33px;
+    margin-top: 10px;
+    margin-left: 2px;
+}
+
+.instagram{
+    width: 25px;
+    margin-top: 14px;
+    margin-left: 10px;
+}
+
+.l{
+    color: white;
+    font-family: 'Camphor Pro VF', 'Camphor Pro', sans-serif;
+    margin-left: 1008px;
+    height: 50px;
+    margin-top: 35px;
+    
+    font-size: medium;
+}
+
+.searchbox{
+    margin-left: 1002px;
+    margin-top: -19px;
+}
+
+.box{
+    width: 245px;
+    height:38px;
+    border-color: cornsilk;
+    border-radius: 10px;
+    
+}
+.symbol{
+    color: black;
+   
+    margin-top:-25px;
+    margin-left: 220px;
+}
+
+.scanner{
+    background-color: black;
+    width: 241px;
+    height: 129px;
+    margin-left: 1008px;
+    margin-top: 15px;
+    border-color: white;
+}
+.scan{
+    height: 64px;
+    width: 64px;
+    margin-top: 3px;
+    margin-left: -10px;
+}
+
+.get1{
+    color: white;
+    margin-left:85px;
+    margin-top: -63px;
+}
+
+.oo{
+    color: white;
+    margin-left: 85px;
+    margin-top: 10px;
+}
+
+.tt{
+    margin-top: 18px;
+    border: red;
+   border-radius: 10px;
+    border-color: white;
+    
+}
+
+.download{
+    color: white;
+    margin-left:1068px ;
+    margin-top: -19px;
+}
+
+.playstore{
+    margin-top: -50px;
+    width: 32px;
+    margin-left: 1011px;
+    position: relative;
+    top: -11px;
+}
+.hr{
+    margin-top: 130px;
+    width: 1222px;
+    margin-left: 36px;
+}
+
+.copyright{
+    color: white;
+    margin-top: 25px;
+    margin-left: 34px;
+}
+
+.India{
+    color: white;
+    margin-left: 1161px;
+    margin-top: -16px;
+}
+.qw{
+    color: white;
+}
